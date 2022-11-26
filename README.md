@@ -14,7 +14,7 @@ index[0]: similarity of point with peak1 index[1]: similarity of point with peak
 ## Program:
 ```
 Developed by: M.Hariharan
-Reg.NO:212221230034
+Reg.NO:212221220015
 ```
 ```
 import numpy as np
